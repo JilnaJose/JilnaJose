@@ -1,5 +1,4 @@
-![Cloud Computing](https://github.com/user-attachments/assets/c252a7c6-6013-4bf3-801f-eb160a3de854)
-
+![Relationship between DevOps and Agile Development - Tech Trainees](https://github.com/user-attachments/assets/98519252-bf26-4f07-b36c-2ff736cfef79)
 ----------------------------------------------------------------------------------------------------------------------------------------
 👋 Hi there, I'm Jilna
 ----------------------------------------------------------------------------------------
